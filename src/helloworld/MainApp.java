@@ -7,7 +7,6 @@ public class MainApp {
 		Ertiga objTest = new Ertiga();
 		
 		for (int i = 0;i < 5; i++) {
-			//System.out.println("i = " + i);
 			objTest.f1(i);
 		}
 	}
